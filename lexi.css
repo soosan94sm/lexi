@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.lexiimag{
+    width: 75px;
+}
+.dax{
+    width: 75px;
+}
+    
+.container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    list-style: none;
+    background-color: rgb(252, 250, 250);
+    size: 400;
+    padding:40px;
+
+
+}
+.containera{
+    text-decoration: none;
+    
+   
+}
+.imagehome{
+    width: 100%;
+    height: 80vh;
+    background-image: url("./image2/lexi\ home.jpg");
+    
+    background-size: cover;
+    background-position:right;
+    background-repeat: no-repeat;
+padding: 200px 100px;
+}
+
+.pendes{
+    height: 508px;
+    background-image: url("./image2/pendes.PNG");
+    background-repeat: no-repeat;
+}
+.penitems2{
+    width: 100%;
+  height: 500px;
+background-image: url("./image2/1row.PNG");
+background-repeat: no-repeat;
+background-size: contain;
+margin: 0;
+}
+.penitems3{
+    width: 100%;
+  height: 500px;
+background-image: url("./image2/2row.PNG");
+background-repeat: no-repeat;
+background-size: contain;
+}
+.penitems4{
+width: 100%;
+height: 500px;
+background-image: url("./image2/3row.PNG");
+background-repeat: no-repeat;
+background-size: contain;
+}
+footer{
+    display: flex;
+    height: 80vh;
+    width: 100%;
+    background-color: black;
+}
+.footer1{
+    margin-left: 50px;
+    margin-top: 200px;
+    height: 300px;
+    width: 300px;
+    color: antiquewhite;
+    
+}
